@@ -8,7 +8,7 @@ import java.util.Random;
 public class ExampleTest {
 
     @Test
-    void  exampleTest1() {
+    void  exampleTest0() {
 
         Assertions.assertTrue(new Random().nextInt() >1);
     }
